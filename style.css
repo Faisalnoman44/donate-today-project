@@ -18,19 +18,19 @@ body {
 .banner-title {
     font-size: 60px;
     padding-top: 150px;
-    color: rgb(10, 31, 6);
+    color: rgba(0, 0, 255, 0.742);
 }
 
 .banner-dicription {
     font-size: 25px;
     margin-top: 10px;
-    color: rgb(163, 0, 0);
+    color: rgb(0, 255, 204);
 }
 
 .banner-button {
     text-decoration: none;
     padding: 20px;
-    margin: 10px;
+    margin-top: 40px;
     font-size: 30px;
 
 
@@ -38,17 +38,16 @@ body {
 
 .btn {
     text-decoration: none;
-    background-image: linear-gradient(rgb(79, 144, 63), rgb(0, 200, 226));
+    background-image: linear-gradient(rgb(63, 68, 144), rgb(0, 200, 226));
     color: white;
-    border-radius: 5px;
+    border-radius: 15px;
     padding: 1%;
     font-weight: 500;
 }
 
 .pay-section {
     width: 100%;
-    height: 600px;
-    background-color: rgb(209, 11, 11);
+    height: 550px;
     text-align: center;
     padding-top: 110px;
 
@@ -62,6 +61,7 @@ body {
 .pay-discription {
     font-size: 20px;
     margin-top: 10px;
+    color: gray;
 }
 
 .pay-option {
@@ -74,7 +74,7 @@ body {
 .pay-amount {
     margin-left: 20px;
     padding: 10px;
-    background-color: cadetblue;
+    background-color: rgba(95, 158, 160, 0.33);
     border-radius: 20px;
 
 }
@@ -85,10 +85,11 @@ body {
     padding-top: 6px;
     padding-left: 7px;
     padding-right: 10px;
+    color: rgb(76, 67, 67);
 }
 
 #selected {
-    border: 5px solid rgb(225, 204, 225);
+    border: 5px solid rgb(118, 69, 208);
 
 }
 
@@ -99,12 +100,13 @@ body {
 
 .amount {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     border: none;
-    border-bottom: 3px solid white;
-    background-color: rgb(209, 11, 11);
+    border-bottom: 3px solid gray;
     width: 60%;
     outline: none;
+    padding-bottom: 15px;
+
 
 }
 
@@ -114,9 +116,9 @@ body {
 }
 
 .donattion-confirm {
-    font-size: 40px;
-    margin: 10px;
-    padding: 10px;
+    font-size: 30px;
+    margin: 20px;
+    padding: 30px;
     border-radius: 15px;
     background-image: linear-gradient(rgb(89, 101, 205), rgb(0, 255, 191));
     color: rgb(244, 226, 231);
@@ -131,9 +133,12 @@ body {
 .plan-headline{
     font-size: 20px
 }
+.plan-discription{
+    color: gray;
+}
 .plan-boxes{
     display: flex;
-    margin-left: 100px;
+    margin-left: 130px;
     margin-bottom: 30px;
 }
 #first-box{
@@ -148,9 +153,9 @@ body {
 .food-box{
     width: 350px;
     height: 350px;
-    border: 3px solid black;
     margin-left: 50px;
     margin-top: 60px;
+    border-radius: 15px;
 }
 .food-icon{
     margin-top: 70px;
@@ -163,4 +168,6 @@ body {
 }
 .food-description{
     margin-left: 20px;
+    margin-top: 10px;
+    color: rgb(92, 81, 81);
 }
