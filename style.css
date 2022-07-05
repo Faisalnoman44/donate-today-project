@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'El Messiri', sans-serif;
+}
+
+.banner {
+    height: 700px;
+    background-size: cover;
+    text-align: center;
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+}
+
+.banner-title {
+    font-size: 60px;
+    padding-top: 150px;
+    color: rgb(10, 31, 6);
+}
+
+.banner-dicription {
+    font-size: 25px;
+    margin-top: 10px;
+    color: rgb(163, 0, 0);
+}
+
+.banner-button {
+    text-decoration: none;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+
+
+}
+
+.btn {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(79, 144, 63), rgb(0, 200, 226));
+    color: white;
+    border-radius: 5px;
+    padding: 1%;
+    font-weight: 500;
+}
+
+.pay-section {
+    width: 100%;
+    height: 700px;
+    background-color: rgb(209, 11, 11);
+    text-align: center;
+    padding-top: 110px;
+
+}
+
+.pay-section-menu {
+    font-size: 49px;
+
+}
+
+.pay-discription {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.pay-option {
+    display: flex;
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 70px;
+}
+
+.pay-amount {
+    margin-left: 20px;
+    padding: 10px;
+    background-color: cadetblue;
+    border-radius: 20px;
+
+}
+
+.money {
+    text-align: center;
+    padding: 5px;
+}
+
+#selected {
+    border: 5px solid rgb(225, 204, 225);
+
+}
+
+.payment-typing {
+    margin-top: 70px;
+
+}
+
+.amount {
+    text-align: center;
+    font-size: 40px;
+    border: none;
+    border-bottom: 3px solid white;
+    text-decoration: none;
+    background-color: rgb(209, 11, 11);
+    width: 60%;
+    outline: none;
+
+}
+
+.donate-btn {
+    margin: 15px;
+    padding: 10px;
+}
+
+.donattion-confirm {
+    font-size: 40px;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 15px;
+    background-image: linear-gradient(rgb(89, 101, 205), rgb(0, 255, 191));
+    color: rgb(244, 226, 231);
+    border: 1px solid white;
+
+
+}
