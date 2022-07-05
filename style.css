@@ -171,3 +171,41 @@ body {
     margin-top: 10px;
     color: rgb(92, 81, 81);
 }
+
+.updates-section{
+    margin-top: 100px;
+    text-align: center;
+    height: 500px;
+}
+.bottom-head{
+    font-size: 40px;
+    margin-top: 40px;
+    padding-top: 30px;
+   
+}
+.bottom-disc{
+    color: gray;
+    margin: 10px;
+    padding: 10px;
+}
+.email-section{
+   
+    background-color: aqua;
+    padding: 50px 80px;
+    margin: 30px 400px;
+    text-align: center;
+}
+.email-box{
+    outline: none;
+    border: none;
+    font-size: 30px;
+    border-right: 8px solid red;
+}
+.sub-btn{
+    outline: none;
+    border: 3px solid red;
+    font-size: 30px;
+    background-color: red;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
