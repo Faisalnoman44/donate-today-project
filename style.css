@@ -124,3 +124,43 @@ body {
 
 
 }
+.plan-banner{
+    text-align: center;
+    margin-top: 80px;
+}
+.plan-headline{
+    font-size: 20px
+}
+.plan-boxes{
+    display: flex;
+    margin-left: 100px;
+    margin-bottom: 30px;
+}
+#first-box{
+    background-color: rgba(119, 240, 240, 0.522);
+}
+#second-box{
+    background-color: rgba(105, 139, 233, 0.567);
+}
+#third-box{
+    background-color: rgba(210, 111, 238, 0.519);
+}
+.food-box{
+    width: 350px;
+    height: 350px;
+    border: 3px solid black;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.food-icon{
+    margin-top: 70px;
+    margin-left: 20px;
+}
+.box-title{
+    font-size: 1.5em;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.food-description{
+    margin-left: 20px;
+}
