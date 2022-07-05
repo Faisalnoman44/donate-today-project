@@ -47,7 +47,7 @@ body {
 
 .pay-section {
     width: 100%;
-    height: 700px;
+    height: 600px;
     background-color: rgb(209, 11, 11);
     text-align: center;
     padding-top: 110px;
@@ -55,7 +55,7 @@ body {
 }
 
 .pay-section-menu {
-    font-size: 49px;
+    font-size: 40px;
 
 }
 
@@ -81,7 +81,10 @@ body {
 
 .money {
     text-align: center;
-    padding: 5px;
+    font-size: 30px;
+    padding-top: 6px;
+    padding-left: 7px;
+    padding-right: 10px;
 }
 
 #selected {
@@ -96,10 +99,9 @@ body {
 
 .amount {
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     border: none;
     border-bottom: 3px solid white;
-    text-decoration: none;
     background-color: rgb(209, 11, 11);
     width: 60%;
     outline: none;
