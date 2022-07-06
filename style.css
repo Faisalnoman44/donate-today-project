@@ -67,12 +67,12 @@ body {
 .pay-option {
     display: flex;
     text-align: center;
-    margin-left: 300px;
+    margin-left: 330px;
     margin-top: 70px;
 }
 
 .pay-amount {
-    margin-left: 22px;
+    margin-left: 20px;
     padding: 10px;
     background-color: rgba(95, 158, 160, 0.33);
     border-radius: 20px;
@@ -174,7 +174,6 @@ body {
 .campaign-gallery{
     margin-top: 150px;
     margin-bottom: 100px;
-    margin-right: 30px;
     width: 100%;
     
 
