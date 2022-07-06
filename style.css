@@ -67,7 +67,7 @@ body {
 .pay-option {
     display: flex;
     text-align: center;
-    margin-left: 350px;
+    margin-left: 300px;
     margin-top: 70px;
 }
 
@@ -138,7 +138,7 @@ body {
 }
 .plan-boxes{
     display: flex;
-    margin-left: 100px;
+    margin-left: 80px;
     margin-bottom: 30px;
 }
 #first-box{
