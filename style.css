@@ -222,6 +222,21 @@ body {
 
    
 }
+footer{
+    text-align: center;
+    background-color: rgb(6, 6, 26);
+   margin-top: 5px;
+   padding-top: 50px;
+   padding-bottom: 50px;
+   color: white;
+}
+span{
+    font-style: italic;
+    font-size: 40px;
+    color: brown;
+    font-weight: 700;
+
+}
     
    
    
