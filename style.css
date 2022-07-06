@@ -112,7 +112,9 @@ body {
 
 .donate-btn {
     margin: 15px;
+    margin-top: 60px;
     padding: 10px;
+    
 }
 
 .donattion-confirm {
@@ -123,6 +125,7 @@ body {
     background-image: linear-gradient(rgb(89, 101, 205), rgb(0, 255, 191));
     color: rgb(244, 226, 231);
     border: 1px solid white;
+    text-decoration: none;
 
 
 }
