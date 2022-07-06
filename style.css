@@ -175,7 +175,7 @@ body {
 .updates-section{
     margin-top: 100px;
     text-align: center;
-    height: 500px;
+    height: 600px;
 }
 .bottom-head{
     font-size: 40px;
@@ -190,22 +190,39 @@ body {
 }
 .email-section{
    
-    background-color: aqua;
-    padding: 50px 80px;
-    margin: 30px 400px;
+    background-color: rgba(0, 255, 255, 0.378);
+    padding: 50px 20px;
+    margin: 90px 300px;
+    display: flex;
     text-align: center;
+    padding-left: 250px;
+   
+    
 }
 .email-box{
+   
     outline: none;
     border: none;
-    font-size: 30px;
-    border-right: 8px solid red;
+    font-size: 25px;
+   padding-top: 4px;
+   padding: 3px 0px 3px 3px;
+   border: 3px solid white;
 }
 .sub-btn{
     outline: none;
-    border: 3px solid red;
-    font-size: 30px;
+    border: none;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
     background-color: red;
+    color: aliceblue;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
+   
+
+   
 }
+    
+   
+   
+
